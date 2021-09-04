@@ -43,3 +43,9 @@ To do so, I've used 4 layers of decomposition in order to achieve better compres
 
 The Wavelet used for image compression was Daubechies-1, recommended for better refinement.
 
+
+- Main file results for analysis of image compression with Python:
+
+
+![alt text](https://github.com/danielaczarref/Wavelet-Image-Processing/blob/master/result4.png?raw=true)
+
